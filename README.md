@@ -1,5 +1,5 @@
 # Sports Celebrity Image Classifier
-![Image Classifier Demo]<img src ="./demo.gif" alt = "image classifier demo" >
+<h3>Image Classifier </h3> <img src ="./demo.gif" alt = "image classifier demo" >
 
 In this data science and machine learning project, I have classified sports personalities. I have restricted classification to only 5 people,
 1) Maria Sharapova
